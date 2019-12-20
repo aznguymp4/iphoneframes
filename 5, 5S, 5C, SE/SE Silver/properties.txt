@@ -1,4 +1,5 @@
 offsetX=67&
 offsetY=249&
 sizeX=677&
-sizeY=1200
+sizeY=1200&
+height=4.9

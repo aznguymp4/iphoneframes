@@ -1,4 +1,5 @@
 offsetX=132&
 offsetY=315&
 sizeX=1084&
-sizeY=1923
+sizeY=1923&
+height=6.25
