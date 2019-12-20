@@ -1,0 +1,4 @@
+offsetX=62&
+offsetY=219&
+sizeX=750&
+sizeY=1334
