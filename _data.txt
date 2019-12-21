@@ -1,1 +1,1 @@
-ver=beta12-21-2019&link=https://www.icloud.com/shortcuts/b21588496bed4e5fa7670a0aa891e908
+link=https://www.icloud.com/shortcuts/bada83ce87df4c7f8d548adf568c6c3f&ver=beta12-21-2019
