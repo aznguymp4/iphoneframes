@@ -1,4 +1,4 @@
-link=https://www.icloud.com/shortcuts/8f611209b5f8410fa8e7447b064d4891
+link=https://www.icloud.com/shortcuts/b6f30a4a454b41fdb26ad18ab13e15dc
 &
 ver=beta12-22-2019e
 &
