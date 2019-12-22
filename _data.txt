@@ -1,10 +1,13 @@
-link=https://www.icloud.com/shortcuts/b6f30a4a454b41fdb26ad18ab13e15dc
+link=https://www.icloud.com/shortcuts/185fa2af56c44f33b66b81e21b3e606a
 &
-ver=beta12-22-2019e
+ver=beta12-22-2019f
 &
-changes=Added new frames for
+changes=Refined Auto-Update Menu
+Options now have icons
+
+Added new frames for
 - 7 Plus Matte Black
 - X Space Gray
 
-- XS and XS Max frames have been renamed to 11 Pro and 11 Pro Max respectively
+Note: XS and XS Max frames have been renamed to 11 Pro and 11 Pro Max respectively
 (because their designs are almost identical)
