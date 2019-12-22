@@ -7,3 +7,4 @@ changes=Added new frames for
 - X Space Gray
 
 - XS and XS Max frames have been renamed to 11 Pro and 11 Pro Max respectively
+(because their designs are almost identical)
