@@ -1,1 +1,9 @@
-link=https://www.icloud.com/shortcuts/8f611209b5f8410fa8e7447b064d4891&ver=beta12-22-2019d
+link=https://www.icloud.com/shortcuts/8f611209b5f8410fa8e7447b064d4891
+&
+ver=beta12-22-2019e
+&
+changes=Added new frames for
+- 7 Plus Matte Black
+- X Space Gray
+
+- XS and XS Max frames have been renamed to 11 Pro and 11 Pro Max respectively

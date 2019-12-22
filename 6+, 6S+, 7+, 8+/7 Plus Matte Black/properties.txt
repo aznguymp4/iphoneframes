@@ -1,0 +1,5 @@
+offsetX=103&
+offsetY=351&
+sizeX=1301&
+sizeY=2315&
+height=6.25
