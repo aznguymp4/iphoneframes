@@ -1,9 +1,16 @@
-link=https://www.icloud.com/shortcuts/8b716b24642647f494b6811441060462
+link=https://www.icloud.com/shortcuts/fa49a3158d324596bf77a085e9cbbd69
 &
 ver=beta12-23-2019a
 &
-changes=Refined Save Menu
+changes=
+12/23/2019
+Icons now have color
+
+Refined Save Menu
 (when multiple images/frames are selected)
+
+12/22/2019
+Changelog added
 
 Refined Auto-Update Menu
 Options now have icons
