@@ -1,8 +1,11 @@
-link=https://www.icloud.com/shortcuts/8100c2344adf492096a4dacad01a6dcb
+link=https://www.icloud.com/shortcuts/8b716b24642647f494b6811441060462
 &
-ver=beta12-23-2019
+ver=beta12-23-2019a
 &
-changes=Refined Auto-Update Menu
+changes=Refined Save Menu
+(when multiple images/frames are selected)
+
+Refined Auto-Update Menu
 Options now have icons
 
 Added new frames for
