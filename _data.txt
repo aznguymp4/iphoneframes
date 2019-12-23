@@ -1,6 +1,6 @@
-link=https://www.icloud.com/shortcuts/185fa2af56c44f33b66b81e21b3e606a
+link=https://www.icloud.com/shortcuts/8100c2344adf492096a4dacad01a6dcb
 &
-ver=beta12-22-2019f
+ver=beta12-23-2019
 &
 changes=Refined Auto-Update Menu
 Options now have icons
