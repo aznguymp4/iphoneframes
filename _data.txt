@@ -1,6 +1,6 @@
 link=https://www.icloud.com/shortcuts/1f81e3479a2e4d418fcb074a228eb243
 &
-ver=beta12-23-2019c
+ver=beta12-23-2019d
 &
 changes=
 12/23/2019
