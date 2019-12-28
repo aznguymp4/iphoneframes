@@ -1,8 +1,12 @@
-link=https://www.icloud.com/shortcuts/17843165aec34a2a939c4aa53b792f8b
+link=https://www.icloud.com/shortcuts/91936d2ebf0b4ea7a1ac38d278e14af0
 &
-ver=beta12-23-2019c
+ver=beta12-28-2019
 &
 changes=
+12/28/2019
+Added frame for 
+- 11 Pro Silver
+
 12/23/2019
 Bold font for "Update Now"
 
