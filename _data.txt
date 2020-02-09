@@ -1,8 +1,13 @@
-link=https://www.icloud.com/shortcuts/7e2251f2fa4d47339aca15bb0a5ab042
+link=https://www.icloud.com/shortcuts/a3f9b0afd33a49a2bea3888a25ed1358
 &
 ver=beta12-28-2019b
 &
 changes=
+2/9/2020
+Fixed for compatibility with iOS 13.3
+
+First update of the decade!
+
 12/28/2019
 Added frame for 
 - 11 Pro Silver
