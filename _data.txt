@@ -1,8 +1,11 @@
-link=https://www.icloud.com/shortcuts/a3f9b0afd33a49a2bea3888a25ed1358
+link=https://www.icloud.com/shortcuts/ca38886f71df4f6f902a32f8fcf7bbab
 &
-ver=beta02-09-2020
+ver=beta02-13-2020
 &
 changes=
+2/13/2020
+Fixed Share Sheet import issues
+
 2/9/2020
 Fixed for compatibility with iOS 13.3
 
