@@ -1,8 +1,13 @@
-link=https://www.icloud.com/shortcuts/ca38886f71df4f6f902a32f8fcf7bbab
+link=https://www.icloud.com/shortcuts/2b9846ca149e4f9b8a2d687e13e799fe
 &
-ver=beta02-13-2020
+ver=beta02-26-2020
 &
 changes=
+2/26/2020
+Added "crop image(s)" option
+
+Faster image URL import speeds when using Share Sheet
+
 2/13/2020
 Fixed Share Sheet import issues
 
